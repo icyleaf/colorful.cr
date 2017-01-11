@@ -1,0 +1,10 @@
+name: colorful.cr
+version: 0.1.0
+
+authors:
+  - icyleaf <icyleaf.cn@gmail.com>
+
+
+crystal: 0.20.1
+
+license: MIT
