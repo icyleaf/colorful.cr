@@ -16,7 +16,7 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  colorful.cr:
+  colorful:
     github: icyleaf/colorful.cr
 ```
 
