@@ -6,6 +6,8 @@
 [![devDependency Status](https://shards.rocks/badge/github/icyleaf/colorful.cr/dev_status.svg)](https://shards.rocks/github/icyleaf/colorful.cr)
 [![Build Status](https://travis-ci.org/icyleaf/colorful.cr.svg)](https://travis-ci.org/icyleaf/colorful.cr)
 
+**Unmaintained**, please use Offical starndard library [Colorize](https://crystal-lang.org/api/0.22.0/Colorize.html) instead!
+
 Colors in your terminal writes with Crystal Language, inspired from [colored](https://github.com/defunkt/colored).
 
 Build in crystal version >= v0.20.1 (2016-12-05), Docs Generated in latest commit.
